@@ -1,0 +1,6 @@
+Create a module in cmd:
+1st:
+go to odoo folder
+cd C:\Users\xsellenece\git\odoo
+2nd:
+openerp-server.py scaffold Your_module _name ./custom
